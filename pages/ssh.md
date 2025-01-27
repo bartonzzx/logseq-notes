@@ -35,7 +35,7 @@
 -
 - # 通过代理服务器访问目标IP
 - [ssh的命令参数详解](https://www.man7.org/linux/man-pages/man1/ssh.1.html)
-- 使用-o ProxyCommand
+- 使用-o ProxyCommand，通过本地的1080端口转发(127.0.0.1:1080)
 - ```bash
   ssh -o ProxyCommand="nc -x 127.0.0.1:1080 %h %p" zhixiong@172.24.52.111
   ```
