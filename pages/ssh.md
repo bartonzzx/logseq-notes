@@ -33,4 +33,8 @@
   ssh zhixiong@172.24.52.111 -i "<你的id_rsa文件路径>"
   ```
 -
-- # 通过代理服务器访问
+- # 通过代理服务器访问目标IP
+-
+- ```bash
+  ssh -o ProxyCommand="nc -x 127.0.0.1:1080 %h %p" zhixiong@172.24.52.111
+  ```
