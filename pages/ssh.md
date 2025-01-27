@@ -34,7 +34,7 @@
   ```
 -
 - # 通过代理服务器访问目标IP
-- 使用-o
+- 使用-o Pe
 - ```bash
   ssh -o ProxyCommand="nc -x 127.0.0.1:1080 %h %p" zhixiong@172.24.52.111
   ```
