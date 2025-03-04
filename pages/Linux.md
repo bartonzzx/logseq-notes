@@ -1,0 +1,17 @@
+# 软件
+- [[ssh]]是指Secure Shell Protocol，属于加密网络协议，最常用于远程登陆和命令行执行
+- [[docker]]是Go语言编写的系统级虚拟化（OS-level virtualization）工具
+- [[zsh]]是与bash类似的shell环境，添加了许多额外功能
+- [[wine]]是linux系统中运行windows程序的兼容层
+- [[tmux]]是常用的终端复用器
+- [[aws]]使用亚马逊云服务
+- [[aliyun]]使用阿里云服务
+- [[nginx]]是一个
+-
+-
+-
+- # 系统配置
+- [[ubuntu setting]]一些ubuntu设置
+- [[swap]]交换区，硬盘作内存
+- [[AOCC]]AMD Optimized C/C++ and Fortran Compilers
+- [[AOCL]]AMD Optimizing CPU Libraries
