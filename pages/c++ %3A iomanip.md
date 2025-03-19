@@ -4,4 +4,5 @@
 	- 需要与std::setprecision(int)连用
 - 示例
 - ``` cpp
+  cout<<fixed<<setprecision(2)<<*iter;
   ```
