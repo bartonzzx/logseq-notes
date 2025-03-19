@@ -4,3 +4,5 @@
 - [[0. introduction]]
 - [[c++ : stl]]
 - [[c++ : iostream]]
+- [[c++ : iomanip]]
+-
