@@ -4,4 +4,4 @@
 - [[c++ : stl]]
 - [[c++ : iostream]]
 - [[c++ : iomanip]]
--
+- [[c++: 初始化]]
