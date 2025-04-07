@@ -1,5 +1,4 @@
 - [[Linux]]
-	- [[ssh]]
 - [[ML]]
 	- [[frontend]]
 		- [[JAX]]
